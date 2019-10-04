@@ -1,36 +1,36 @@
 # 第二次作业（10.9之前）
 ## 我国还有哪些关于公共数据开放的条例或法规？国内外有哪些政府开放数据平台？
-- 我阅读《上海市公共数据开放暂行办法》的方式是从百度百科中搜索这一词条，并从中找到数据来源：上海市人民政府网站的政务公开栏目（http://www.shanghai.gov.cn/nw2/nw2314/nw2319/nw2407/nw45024/u26aw62638.html 进行阅读。
+- 我阅读《上海市公共数据开放暂行办法》的方式是从百度百科中搜索这一词条，并从中找到数据来源：[上海市人民政府网站的政务公开栏目](http://www.shanghai.gov.cn/nw2/nw2314/nw2319/nw2407/nw45024/u26aw62638.html)进行阅读。
 
 - 我国还有这些公共数据开放的条例和法规：
 
-1.《贵阳市政府数据共享开放条例》（是我国首部政府数据共享开放地方性法规)信源: [搜狐](http://www.sohu.com/a/133829224_296848)
-2.《北京市公共数据管理办法（征求意见稿）》（尚未正式施行)  信源：[北京市人民政府网站](http://www.beijing.gov.cn/zfxxgk/110069/zwdt53/2019-04/26/content_b3f43884b1d9493b9348c086b614ee74.shtml)
+1.《贵阳市政府数据共享开放条例》（是我国首部政府数据共享开放地方性法规)信源: [搜狐](http://www.sohu.com/a/133829224_296848)  
+2.《北京市公共数据管理办法（征求意见稿）》（尚未正式施行)  信源：[北京市人民政府网站](http://www.beijing.gov.cn/zfxxgk/110069/zwdt53/2019-04/26/content_b3f43884b1d9493b9348c086b614ee74.shtml)  
 
 3.《银川市城市数据共享开放管理办法》  信源：[银川市人民政府网站](http://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycsdsjj/xxgkml_22120/zcjd_22125/201803/t20180324_721459.html)
 
-- 国内外还有这些政府开放数据平台：
+- 国内外还有这些政府开放数据平台：  
 国内：
 
 [中华人民共和国中央人民政府网站数据栏目](http://www.gov.cn/shuju/index.htm)
 
-[上海市公共数据开放平台（试运行）](https://trial.data.sh.gov.cn/） 
+[上海市公共数据开放平台（试运行）](https://trial.data.sh.gov.cn） 
 
-[成都市公共数据开放平台](http://www.cddata.gov.cn/）  
+[成都市公共数据开放平台](http://www.cddata.gov.cn）  
 
 [北京市政务数据资源网](https://www.bjdata.gov.cn/jkfb/index.htm）
 
 [天津市信息资源统一开放平台] (https://data.tj.gov.cn)
 
-[“开放广东”政府数据统一开放平台](https://data.tj.gov.cn/） 
+[“开放广东”政府数据统一开放平台](https://data.tj.gov.cn） 
 
-[山东公共数据开放网](http://data.sd.gov.cn/odweb/）  等 
+[山东公共数据开放网](http://data.sd.gov.cn/odweb)等   
 信源：[探码科技上的个人博客](http://www.tanmer.com/blog/451） 
 
 国外：
 [美国政府数据公开网站](https://data.gov）  
 
-[英国政府数据开放网站](https://data.gov.uk/）  
+[英国政府数据开放网站](https://data.gov.uk）  
 
 [澳大利亚政府数据公开网站](https://data.gov.au）  
 
