@@ -11,27 +11,27 @@
 
 [中华人民共和国中央人民政府网站数据栏目](http://www.gov.cn/shuju/index.htm)
 
-[上海市公共数据开放平台（试运行）](http://trial.data.sh.gov.cn） 
+[上海市公共数据开放平台（试运行）](http://trial.data.sh.gov.cn) 
 
 [成都市公共数据开放平台](http://www.cddata.gov.cn)  
 
-[北京市政务数据资源网](http://www.bjdata.gov.cn/jkfb/index.htm）
+[北京市政务数据资源网](http://www.bjdata.gov.cn/jkfb/index.htm)
 
 [天津市信息资源统一开放平台] (http://data.tj.gov.cn)
 
-[“开放广东”政府数据统一开放平台](http://data.tj.gov.cn） 
+[“开放广东”政府数据统一开放平台](http://data.tj.gov.cn) 
 
 [山东公共数据开放网](http://data.sd.gov.cn/odweb)等   
-信源：[探码科技上的个人博客](http://www.tanmer.com/blog/451） 
+信源：[探码科技上的个人博客](http://www.tanmer.com/blog/451) 
 
 国外：  
-[美国政府数据公开网站](http://data.gov）  
+[美国政府数据公开网站](http://data.gov)  
 
-[英国政府数据开放网站](http://data.gov.uk）  
+[英国政府数据开放网站](http://data.gov.uk)  
 
-[澳大利亚政府数据公开网站](http://data.gov.au）  
+[澳大利亚政府数据公开网站](http://data.gov.au)  
 
-信源： [百度文库](http://wenku.baidu.com/view/4371f8344a35eefdc8d376eeaeaad1f3469311e0.html） 
+信源： [百度文库](http://wenku.baidu.com/view/4371f8344a35eefdc8d376eeaeaad1f3469311e0.html) 
 
 ## 回答：2012-2018年各季度GDP增速（列出选取的统计指标、数据页面、计算步骤及答案）
 1.通过搜索学习可以得知，GDP分为名义GDP及实际GDP（排除了通货膨胀和通货紧缩导致的价格因素带来的影响），相应的增速也分为名义GDP增速和实际GDP增速，显然实际GDP增速是更有实际意义的一种方式，新闻报道中的的GDP增速指标也是采用此概念计算得出的数据（且通常计算同比增长），故在选择数据时应选择实际GDP，即“不变价”的GDP。
