@@ -17,7 +17,7 @@
 
 [北京市政务数据资源网](http://www.bjdata.gov.cn/jkfb/index.htm)
 
-[天津市信息资源统一开放平台] (http://data.tj.gov.cn)
+[天津市信息资源统一开放平台](http://data.tj.gov.cn)
 
 [“开放广东”政府数据统一开放平台](http://data.tj.gov.cn) 
 
