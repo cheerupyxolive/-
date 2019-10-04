@@ -13,7 +13,7 @@
 
 [上海市公共数据开放平台（试运行）](http://trial.data.sh.gov.cn） 
 
-[成都市公共数据开放平台](http://www.beijing.gov.cn/zfxxgk/110069/zwdt53/2019-04/26/content_b3f43884b1d9493b9348c086b614ee74.shtml)  
+[成都市公共数据开放平台](http://trial.data.sh.gov.cn)  
 
 [北京市政务数据资源网](http://www.bjdata.gov.cn/jkfb/index.htm）
 
