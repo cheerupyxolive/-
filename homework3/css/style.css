@@ -1,0 +1,28 @@
+html {
+	font-size: 16px;
+}
+body {
+	background: #FFFFFF;
+	color: #0F0;
+	text-align: center;
+	line-height: none;
+	font-size: 18px;
+} 
+
+
+
+
+#mapworld,#cj,#zjyz,#zuijiu {
+	float:left;
+}
+#wenwangduoguantiao,#cj2,#psxsw,#zuinianzhang{
+	
+	float:right;
+}
+.titou{
+	text-align: center;
+	font: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-size: 26px;
+	color:#00FF00;
+}

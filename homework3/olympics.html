@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+		Remove this if you use the .htaccess -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		
+		<meta name="description" content="">
+		<meta name="author" content="a3288">
+
+		<meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+		<!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+		
+        <link rel="stylesheet" type="text/css" href="css/style.css" />  
+       
+                
+	</head>
+
+	<body>
+		
+    <div>
+      <div style="width:1330px;height:100px;">
+        <p class="titou">1996-2016部分夏季奥运会数据展示</p>
+      </div>
+   	  <div id="tu">
+        <div id="mapworld" style="width:100%;height:700px;"></div>
+        <div id="wenwangduoguantiao" style="width:100%;height:700px;"></div>
+      </div>
+    
+      
+
+     
+        
+   
+        
+      
+       	
+          
+    <script type="text/javascript" src="js/echarts.js"></script>
+    <script type="text/javascript" src="js/world.js"></script>
+    <script type="text/javascript">
+		var option = {
+    title: {
+        text: '夏奥会奖牌在世界的主要分布（1996-2016）',
+        subtext: '这20年间获得奖较多的国家（达到50枚）',
+        left: 'center',
+        top: 'top'
+    },
+    tooltip: {
+        trigger: 'item',
+        formatter: function (params) {
+            var value = (params.value + '').split('.');
+            value = value[0].replace(/(\d{1,3})(?=(?:\d{3})+(?!\d))/g, '$1,')
+                    ;
+            return params.seriesName + '<br/>' + params.name + ' : ' + value;
+        }
+    },
+    toolbox: {
+        show: true,
+        orient: 'vertical',
+        left: 'right',
+        top: 'center',
+        feature: {
+            dataView: {readOnly: false},
+            restore: {},
+            saveAsImage: {}
+        }
+    },
+    visualMap: {
+        min: 10,
+        max: 510
+		,
+        text:['High','Low'],
+        realtime: false,
+        calculable: true,
+        inRange: {
+            color: ['grey','green', 'orangered']
+        }
+    },
+    series: [
+        {
+            name: '奖牌数量',
+            type: 'map',
+            mapType: 'world',
+            roam: true,
+            itemStyle:{
+                emphasis:{label:{show:true}}
+            },
+            data:[
+				{name: 'China',  value:455},
+				{name:'United States', value:639},
+				{name: 'Russia',  value:444},
+				{name: 'Germany',  value:301},
+				{name: 'United Kingdom',  value:260},
+				{name: 'Australia',  value:260},
+				{name: 'France',  value:226},
+				{name: 'Italy',  value:184},
+				{name: 'Japan',  value:173},
+				{name: 'North Korea',  value:169},
+				{name: 'Ukraine',  value:126},
+				{name: 'Netherlands',  value:125},
+				{name: 'Cuba',  value:131},
+				{name: 'Canada',  value:107},
+				{name: 'Spain',  value:100},
+				{name: 'Hungary',  value:98},
+				{name: 'Romania',  value:86},
+				{name: 'Belarus',  value:86},
+				{name: 'Brazil',  value:88},
+				{name: 'Poland',  value:72},
+				{name: 'Kazakhstan',  value:66},
+				{name: 'Kenya',  value:61},
+				{name: 'Bulgaria',  value:50},
+				{name: 'Czech Republic',  value:54},
+				{name: 'Jamaica',  value:53},
+				{name: 'Sweden',  value:52},
+				{name: 'Denmark',  value:54},
+				{name: 'New Zealand',  value:57}
+	
+            ]
+        }
+    ]
+};
+
+		var myecharts = echarts.init(
+		document.getElementById('mapworld'));
+		myecharts.setOption(option);
+      </script>
+      
+     
+    <script type="text/javascript">
+		var option2 = {
+			title: {
+        text: '获奖牌数量较多的国家（1996-2016）',
+        subtext: '获得夏奥会奖牌排名前10的国家。',
+        left: 'center',
+        top: 'top'
+    },
+    color: ['#3398DB'],
+    tooltip : {
+        trigger: 'axis',
+        axisPointer : {            // 坐标轴指示器，坐标轴触发有效
+            type : 'shadow'        // 默认为直线，可选为：'line' | 'shadow'
+        }
+    },
+    grid: {
+        left: '3%',
+        right: '4%',
+        bottom: '3%',
+        containLabel: true
+    },
+    xAxis : [
+        {
+            type : 'category',
+            data : ['美国', '中国', '俄罗斯', '德国', '英国', '澳大利亚', '法国','意大利','日本','韩国'],
+            axisTick: {
+                alignWithLabel: true
+            }
+        }
+    ],
+    yAxis : [
+        {
+            type : 'value'
+        }
+    ],
+    series : [
+        {
+            name:'奖牌数量',
+            type:'bar',
+            barWidth: '60%',
+            data:[639,455, 444, 301, 260, 260, 226,184,173,169]
+        }]
+		};
+		var myecharts = echarts.init(
+		document.getElementById('wenwangduoguantiao'));
+		myecharts.setOption(option2);
+      </script>
+      
+	
+      </script>
+      
+  
+    
+   
+			
+	</body>
+</html>
