@@ -1,6 +1,6 @@
 # 第三次作业
 - 自己本次作业用的免费的可视化图表工具主要有[echarts](https://www.echartsjs.com/zh/index.html)，[图表秀](https://www.tubiaoxiu.com/)和AntV网站上的[G2](http://antv.alipay.com/zh-cn/g2/3.x/demo/index.html)。
-- 在kaggle上我选择了下载了[夏季奥运会](https://www.kaggle.com/the-guardian/olympic-games)的数据，这里面缺少2016年奥运会的数据，故还单独下载了一份2016年[里约奥运会](https://www.kaggle.com/rio2016/olympic-games)的数据。主要是兴趣让我选择了这个主题。
+- 在kaggle上我选择了下载了[夏季奥运会](https://www.kaggle.com/the-guardian/olympic-games)的数据，这里面缺少2016年奥运会的数据，故还单独下载了一份2016年[里约奥运会](https://www.kaggle.com/rio2016/olympic-games)的数据。最终从这两个数据集中选择了1996-2016这20年的部分数据加以呈现，原因主要是兴趣让我选择了这个主题。
 - 这次我呈现的数据分为了两个网页，一个是在图表秀这个网站上做的，在上面可以在线制作并提供分享链接。[网页1](https://www.tubiaoxiu.com/p/s/3a5ee912e6452766.html)  
 第二个网页是自己简单做了一个本地网页上传到github上，这个网页里用到的是echars和G2两个网站上提供的图表。由于编写网页基础的东西忘了很多，所以这个网页上呈现的内容相对比较少。[网页2](https://cheerupyxolive.github.io/Homework/homework3/olympics)
 - *一些体会* 
