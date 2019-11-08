@@ -1,3 +1,11 @@
+# 第四次作业
+- 本次作业的[图文呈现](https://www.dydata.io/show/f8f39ee4566ef5db17bb6e71aa0c1152)
+- 本次收集数据的来源于国家统计局网站；首先想要在国家统计局网站上搜索有关垃圾的数据时，发现数据是比较少的；而我想主题还是要和垃圾分类有些关系，而这些数据来如何来和垃圾分类“扯上关系”呢，这是我这次思考了最久的问题（虽然后来觉得也不一定要和垃圾分类有关，有些犹豫花费了些时间）；后来[这篇文章](http://www.chinadevelopmentbrief.org.cn/news-23026.html)应该说给了我很大启发，这过程中也去了解了一些有关生活垃圾[概念](https://baike.baidu.com/item/%E7%94%9F%E6%B4%BB%E5%9E%83%E5%9C%BE/83438?fr=aladdin)和相关如无害化处理等方面的知识。
+- 经过了查阅资料和收集数据后，自己觉得可以通过数据来从一个角度呈现出垃圾分类的重要性，大致思路是这样的：为什么现在要推行垃圾分类--因为垃圾分类重要且必要--为什么重要--分类不到位不仅造成资源浪费，还危害环境。大致如此。
+
+ ---
+ ---
+ 
 # 第三次作业
 - 自己本次作业用的免费的可视化图表工具主要有[echarts](https://www.echartsjs.com/zh/index.html)，[图表秀](https://www.tubiaoxiu.com/)和AntV网站上的 [G2](http://antv.alipay.com/zh-cn/g2/3.x/demo/index.html)。
 - 在kaggle上我选择了下载了[夏季奥运会](https://www.kaggle.com/the-guardian/olympic-games)的数据，这里面缺少2016年奥运会的数据，故还单独下载了一份2016年[里约奥运会](https://www.kaggle.com/rio2016/olympic-games)的数据。最终从这两个数据集中选择了1996-2016这20年的部分数据加以呈现，主要是兴趣让我选择了这个主题。
